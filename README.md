@@ -18,7 +18,7 @@ This project retrieve data from the API of <https://developer.schooldigger.com/>
     `cd school`
 
 
-- Create a new virtual environment, so this project won't break any other projects and to ensure that it will work perfectly : 
+- Create a new virtual environment, so this project won't break any other projects and to ensure that it will work perfectly. Note that this code work in python>=3.9. That's why creating a new virtual environment is important: 
 
     `python -m venv school_env`
 - Activate the virtual environment just created : 
